@@ -1,6 +1,5 @@
 This is the first sentence.
-This is actually NOT the second sentence.
-Oh wait, this is actually the second sentence.
+This is actually NOT the second sentence. Oh wait, this is actually the second sentence.
 This is the third sentence.
 
 I have done some experiments.
